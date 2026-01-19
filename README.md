@@ -34,7 +34,6 @@ network-information-diagnostic-tool/
 │── network_info.sh
 │── README.md
 │── LICENSE
-│── screenshots/
 ```
 
 ---
