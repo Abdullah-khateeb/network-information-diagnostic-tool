@@ -38,7 +38,7 @@ network-information-diagnostic-tool/
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### 1️⃣ Make the script executable
 ```bash
@@ -52,7 +52,7 @@ chmod +x network_info.sh
 
 ---
 
-## 🧾 Sample Output
+## Sample Output
 
 ```
 ==============================
@@ -69,7 +69,7 @@ Internet Status   : Connected
 
 ---
 
-## 🧠 What I Learned From This Project
+## What I Learned From This Project
 
 - Working with Linux networking commands
 - Parsing command output using `awk` and `grep`
@@ -79,7 +79,7 @@ Internet Status   : Connected
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Interface selection support
 - Colored output for better readability
@@ -88,20 +88,20 @@ Internet Status   : Connected
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is intended for **educational purposes only**.  
 It performs **read-only diagnostics** and does not modify any system configuration.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 🙌 Author
+## Author
 
 **Abdullah**  
 Computer Science & Engineering Undergraduate  
