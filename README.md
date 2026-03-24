@@ -1,11 +1,11 @@
-# 🌐 Network Information & Diagnostic Tool (Linux)
+#  Network Information & Diagnostic Tool (Linux)
 
 A beginner-friendly **Linux CLI tool** written in **Bash** that displays essential network information and performs basic connectivity diagnostics.  
 This project helps in understanding **Linux networking commands**, **IP configuration**, and **basic system troubleshooting**.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Displays IP address
 - Displays MAC address
@@ -16,7 +16,7 @@ This project helps in understanding **Linux networking commands**, **IP configur
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Bash scripting**
 - Linux networking utilities:
@@ -27,7 +27,7 @@ This project helps in understanding **Linux networking commands**, **IP configur
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 network-information-diagnostic-tool/
